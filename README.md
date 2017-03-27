@@ -1,7 +1,7 @@
 # Tutorial PM6: Making Galaxy Work for You
 
 ## Presenters
-Martin Cech & John Chilton
+Martin Cech & John Chilton ([@martenson](https://github.com/martenson) & [@jmchilton](https://github.com/jmchilton))
 
 Department of Biochemistry and Molecular Biology, Penn State University, University Park, PA, USA
 
