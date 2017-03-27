@@ -1,8 +1,9 @@
 # Tutorial PM6: Making Galaxy Work for You
 
-Presenters
-Martin Cech - Department of Biochemistry and Molecular Biology, Penn State University, University Park, PA, USA
-John Chilton - Department of Biochemistry and Molecular Biology, Penn State University, University Park, PA, USA
+## Presenters
+Martin Cech & John Chilton
+
+Department of Biochemistry and Molecular Biology, Penn State University, University Park, PA, USA
 
 ## Tutorial Overview
 Galaxy is an open source web-based platform for data analysis. The goal of this tutorial is to provide a practical, hands-on guide to adapting the Galaxy platform to the specific needs of individuals attending the ISMB.
