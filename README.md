@@ -17,19 +17,7 @@ Create Galaxy compatible tool and workflow definitions that are publicly accessi
 Deploy Galaxy and scale it up to target production-ready resources such as a Postgres database, NGINX webserver, and distributed resource managers such SLURM or PBS.
 
 ## Schedule
-* 2:30 - 2:50 Introduction to Galaxy - From Data Exploration to Workflow Building
-* 2:50 - 4:00 Integrating Tools into Galaxy
-  * Anatomy of Galaxy Tools & Introduction to [Planemo](https://planemo.readthedocs.org)
-  * Galaxy [Tool Shed](https://galaxyproject.org/toolshed/)
-  * Wrapping a tool [hands-on](http://planemo.readthedocs.io/en/latest/writing_standalone.html)
-  * Tool Development Q & A
-* 4:00 - 4:15 Coffee Break
-* 4:15 - 5:30 Deploying and Scaling Galaxy
-  * Deployment and Platform Options
-  * Get Basic Server Up and Running [hands-on](https://martenson.github.io/dagobah-training/02-basic-server/get-galaxy.html) 
-  * Automated Deployment with Ansible [demo](https://github.com/martenson/dagobah-training/blob/master/advanced/001-ansible/ex2-galaxy-ansible.md)
-  * Leveraging Compute Clusters [demo](https://martenson.github.io/dagobah-training/005-compute-cluster/compute-cluster.html)
-* 5:30 - 6:00 Q & A, troubleshooting
+The schedule, slides, and all other materials are reachable [here](https://github.com/galaxyproject/dagobah-training/tree/2017-ismb)
 
 ## Participant Overview:
 This tutorial is aimed at a broad audience. Some knowledge of the command-line and Unix will be assumed. Parts of the tutorial are hands-on so participants are encouraged to bring their laptops. No previous knowledge of Galaxy or particular topics in bioinformatics is required. Participants should have a desire to learn more about Galaxy, or a desire to learn how to wrap their tools and pipelines in Galaxy to facilitate others using these, or just want specific advice on setting up instance of Galaxy and scaling it up.
